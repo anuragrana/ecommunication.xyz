@@ -10,12 +10,17 @@ An SMS sending platform with capabilities like adding contacts and creating a li
 - SMS  
     - Promotional
     - Transactional
+    - Flash 
+    - Scheduled SMS
+    - Periodic SMS
 - Contact
     - Add a contact
     - Create a list of contacts
 - Sending SMS
     - Send to multiple mobiles at once
     - Send to a list of contacts
+    - Schedule an SMS to be sent later on
+    - Set an SMS to be sent repetitively at a fixed time/day
 - Validations
     - Mobile Number can be only a valid Indian mobile number
     - Promotional SMS can not be sent between 9 PM to 9 AM

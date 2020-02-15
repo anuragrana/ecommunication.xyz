@@ -27,7 +27,10 @@ An SMS sending platform with capabilities like adding contacts and creating a li
 - Email address verification using confirmation link sent on email address
 - Upto 5 free SMS are provided on signup
 
-
+### Technology
+- Python Django 2.2
+- Bootstrap 4
+- JQuery
 
 
 ### contact

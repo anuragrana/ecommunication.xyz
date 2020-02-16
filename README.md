@@ -2,7 +2,7 @@
 SMS sending platform
 
 ### What is it?
-An SMS sending platform with capabilities like adding contacts and creating a list of contacts. Proper validations are in place. Can send SMS to multiple mobiles in one go. Flat price of 20 paise per SMS.
+An SMS sending platform with capabilities like adding contacts and creating a list of contacts. Proper validations are in place. Can send SMS to multiple mobiles in one go. Flat price of 20 paise per SMS. Get 250000 SMS in this package.
 
 
 
@@ -39,5 +39,5 @@ An SMS sending platform with capabilities like adding contacts and creating a li
 - JQuery
 
 
-### contact
+### Contact
 code108labs@gmail.com

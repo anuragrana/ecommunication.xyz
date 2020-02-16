@@ -1,4 +1,4 @@
-## [ECOMMUNICATION.XYZ](https://ecommunication.xyz)
+## [ECOMMUNICATION.XYZ](https://ecommunication.xyz) : Available for sale
 SMS sending platform
 
 ### What is it?
